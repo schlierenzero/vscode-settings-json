@@ -1,1 +1,40 @@
-wait a moment
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Noir Rosé Pine Moon Grey",
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "editor.tabSize": 6,
+    "editor.fontFamily": "Maple Mono NF",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "vikings-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "breadcrumbs.enabled": false,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.renderLineHighlight": "gutter",
+    "editor.glyphMargin": false,
+    "editor.lineNumbers": "on",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyleInactive": "none",
+    "window.title": "One More Line!",
+    "vscode_custom_css.imports": ["file:///C:/Users/Administrator/.vscode/style.css"],
+    "settings.cycle": [
+        {
+          "id": "lineNumbers",
+          "values": [
+              { "editor.lineNumbers": "off" },
+              {"editor.lineNumbers": "on"}
+          ]
+        }
+      ],
+      "code-runner.runInTerminal": true,
+      "code-runner.saveFileBeforeRun": true,
+      "terminal.integrated.fontFamily": "Maple Mono NF",
+      "workbench.productIconTheme": "developer-icons",
+
+}
