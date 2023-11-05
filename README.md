@@ -1,2 +1,2 @@
 # vscode-settings-json
-my custom vscode settings
+My custom setting in vscode
